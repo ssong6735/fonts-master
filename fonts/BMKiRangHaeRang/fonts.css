@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'BMKiRangHaeRang';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('BMKiRangHaeRang.woff2') format('woff2'), 
+        url('BMKiRangHaeRang.woff') format('woff'),
+        url('BMKiRangHaeRang.ttf') format('truetype'),
+        url('BMKiRangHaeRang.otf') format('opentype'),
+        url('BMKiRangHaeRang.eot') format('embedded-opentype');
+}

@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'JNaughtyBoy-Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('※');
+        src: url('JNaughtyBoy-Light.eot');
+        /* IE9 Compat Modes */
+        src: url('JNaughtyBoy-Light.eot?#iefix') format('embedded-opentype'),
+            /* IE6-IE8 */
+            url('JNaughtyBoy-Light.otf') format('opentype'),
+            /* Open Type Font */
+            url('JNaughtyBoy-Light.svg') format('svg'),
+            /* Legacy iOS */
+            url('JNaughtyBoy-Light.ttf') format('truetype'),
+            /* Safari, Android, iOS */
+            url('JNaughtyBoy-Light.woff') format('woff'),
+            /* Modern Browsers */
+            url('JNaughtyBoy-Light.woff2') format('woff2');
+        /* Modern Browsers */
+}
+
+@font-face {
+    font-family: 'JNaughtyBoy-Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('※');
+        src: url('JNaughtyBoy-Medium.eot');
+        /* IE9 Compat Modes */
+        src: url('JNaughtyBoy-Medium.eot?#iefix') format('embedded-opentype'),
+            /* IE6-IE8 */
+            url('JNaughtyBoy-Medium.otf') format('opentype'),
+            /* Open Type Font */
+            url('JNaughtyBoy-Medium.svg') format('svg'),
+            /* Legacy iOS */
+            url('JNaughtyBoy-Medium.ttf') format('truetype'),
+            /* Safari, Android, iOS */
+            url('JNaughtyBoy-Medium.woff') format('woff'),
+            /* Modern Browsers */
+            url('JNaughtyBoy-Medium.woff2') format('woff2');
+        /* Modern Browsers */
+}
+
+@font-face {
+    font-family: 'JNaughtyBoy-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('※');
+        src: url('JNaughtyBoy-Bold.eot');
+        /* IE9 Compat Modes */
+        src: url('JNaughtyBoy-Bold.eot?#iefix') format('embedded-opentype'),
+            /* IE6-IE8 */
+            url('JNaughtyBoy-Bold.otf') format('opentype'),
+            /* Open Type Font */
+            url('JNaughtyBoy-Bold.svg') format('svg'),
+            /* Legacy iOS */
+            url('JNaughtyBoy-Bold.ttf') format('truetype'),
+            /* Safari, Android, iOS */
+            url('JNaughtyBoy-Bold.woff') format('woff'),
+            /* Modern Browsers */
+            url('JNaughtyBoy-Bold.woff2') format('woff2');
+        /* Modern Browsers */
+}

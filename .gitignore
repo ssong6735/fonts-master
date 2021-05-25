@@ -1,3 +1,4 @@
+*.bak
 ## upload log ##
 .well-known
 *.log

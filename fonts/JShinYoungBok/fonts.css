@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'JShinYoungBok';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※');
+        src: url('JShinYoungBok.eot');
+        /* IE9 Compat Modes */
+        src: url('JShinYoungBok.eot?#iefix') format('embedded-opentype'),
+            /* IE6-IE8 */
+            url('JShinYoungBok.otf') format('opentype'),
+            /* Open Type Font */
+            url('JShinYoungBok.svg') format('svg'),
+            /* Legacy iOS */
+            url('JShinYoungBok.ttf') format('truetype'),
+            /* Safari, Android, iOS */
+            url('JShinYoungBok.woff') format('woff'),
+            /* Modern Browsers */
+            url('JShinYoungBok.woff2') format('woff2');
+        /* Modern Browsers */
+}

@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'JSunFlower-Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('※');
+        src: url('JSunFlower-Light.eot');
+        /* IE9 Compat Modes */
+        src: url('JSunFlower-Light.eot?#iefix') format('embedded-opentype'),
+            /* IE6-IE8 */
+            url('JSunFlower-Light.otf') format('opentype'),
+            /* Open Type Font */
+            url('JSunFlower-Light.svg') format('svg'),
+            /* Legacy iOS */
+            url('JSunFlower-Light.ttf') format('truetype'),
+            /* Safari, Android, iOS */
+            url('JSunFlower-Light.woff') format('woff'),
+            /* Modern Browsers */
+            url('JSunFlower-Light.woff2') format('woff2');
+        /* Modern Browsers */
+}
+
+@font-face {
+    font-family: 'JSunFlower-Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('※');
+        src: url('JSunFlower-Medium.eot');
+        /* IE9 Compat Modes */
+        src: url('JSunFlower-Medium.eot?#iefix') format('embedded-opentype'),
+            /* IE6-IE8 */
+            url('JSunFlower-Medium.otf') format('opentype'),
+            /* Open Type Font */
+            url('JSunFlower-Medium.svg') format('svg'),
+            /* Legacy iOS */
+            url('JSunFlower-Medium.ttf') format('truetype'),
+            /* Safari, Android, iOS */
+            url('JSunFlower-Medium.woff') format('woff'),
+            /* Modern Browsers */
+            url('JSunFlower-Medium.woff2') format('woff2');
+        /* Modern Browsers */
+}
+
+@font-face {
+    font-family: 'JSunFlower-Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('※');
+        src: url('JSunFlower-Bold.eot');
+        /* IE9 Compat Modes */
+        src: url('JSunFlower-Bold.eot?#iefix') format('embedded-opentype'),
+            /* IE6-IE8 */
+            url('JSunFlower-Bold.otf') format('opentype'),
+            /* Open Type Font */
+            url('JSunFlower-Bold.svg') format('svg'),
+            /* Legacy iOS */
+            url('JSunFlower-Bold.ttf') format('truetype'),
+            /* Safari, Android, iOS */
+            url('JSunFlower-Bold.woff') format('woff'),
+            /* Modern Browsers */
+            url('JSunFlower-Bold.woff2') format('woff2');
+        /* Modern Browsers */
+}

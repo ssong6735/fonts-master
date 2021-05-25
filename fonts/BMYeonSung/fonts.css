@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'BMYeonSung';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('BMYeonSung.woff2') format('woff2'), 
+        url('BMYeonSung.woff') format('woff'),
+        url('BMYeonSung.ttf') format('truetype'),
+        url('BMYeonSung.otf') format('opentype'),
+        url('BMYeonSung.eot') format('embedded-opentype');
+}

@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'JSongMyung';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※');
+        src: url('JSongMyung.eot');
+        /* IE9 Compat Modes */
+        src: url('JSongMyung.eot?#iefix') format('embedded-opentype'),
+            /* IE6-IE8 */
+            url('JSongMyung.otf') format('opentype'),
+            /* Open Type Font */
+            url('JSongMyung.svg') format('svg'),
+            /* Legacy iOS */
+            url('JSongMyung.ttf') format('truetype'),
+            /* Safari, Android, iOS */
+            url('JSongMyung.woff') format('woff'),
+            /* Modern Browsers */
+            url('JSongMyung.woff2') format('woff2');
+        /* Modern Browsers */
+}

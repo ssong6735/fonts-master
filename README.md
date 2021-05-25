@@ -1,95 +1,55 @@
+<!-- 주석에 있는거는 업데이트 준비중/대기 -->
+<!-- 폰트 변환 사이트 : https://cloudconvert.com/ -->
 # Fonts
 > 한글 웹폰트 모음
 
-## 1. 아리따부리 AritaBuri
+## [아리따]
+### 아리따부리 AritaBuri [데모](fonts/AritaBuri/demo.html)
+### 아리따돋움 AritaDotum [데모](fonts/AritaDotum/demo.html)
 
-[데모](./AritaBuri/demo.html)
+## [우아한형제들-배달의민족]
+### 배민주아 BMJuA [데모](fonts/BMJuA/demo.html)
+### 배민한나는11살 BMHanNa11 [데모](fonts/BMHanNa11/demo.html)
+### 배민도현 BMDoHyeon [데모](fonts/BMDoHyeon/demo.html)
+### 배민연성 BMYeonSung [데모](fonts/BMYeonSung/demo.html)
+### 배민기랑해랑 BMKiRangHaeRang [데모](fonts/BMKiRangHaeRang/demo.html)
+<!--
+### 배민한나Air BMHanNaAir [데모](fonts/BMHanNaAir/demo.html)
+### 배민한나Pro BMHanNaPro [데모](fonts/BMHanNaPro/demo.html)
+### 배민을지로 BMEuljiro [데모](fonts/BMEuljiro/demo.html)
+### 배민을지로10년후 BMEuljiro10yearslater [데모](fonts/BMEuljiro10yearslater/demo.html)
+-->
 
-## 2. 아리따돋움 AritaDotum
+## [다음]
+### 다음 Daum [데모](fonts/Daum/demo.html)
 
-[데모](./AritaDotum/demo.html)
+## [고도]
+### 고도 Godo [데모](fonts/Godo/demo.html)
+### 고도마음 GodoMaum [데모](fonts/GodoMaum/demo.html)
 
-## 3. 다음 Daum
+## [이롭게]
+### 이롭게바탕 IropkeBatang [데모](fonts/IropkeBatang/demo.html)
 
-[데모](./Daum/demo.html)
+## [직지소프트]
+### J송명 JSongMyung [데모](fonts/JSongMyung/demo.html)
+### J개구쟁이 JNaughtyBoy [데모](fonts/JSongMyung/demo.html)
+### J해바라기 JSunFlower [데모](fonts/JSongMyung/demo.html)
+### J신영복 JShinYoungBok [데모](fonts/JShinYoungBok/demo.html)
+*J신영복체는 개인/비상업용 무료
 
-## 4. 고도 Godo
+## [본:노토]
+### 본고딕 NotoSans [데모](fonts/NotoSans/demo.html)
+<!--
+### 본명조 NotoSerifCJKkr [데모](fonts/NotoSerifCJKkr/demo.html)
+-->
 
-[데모](./Godo/demo.html)
+## [에스코어]
+### 에스코어드림 S-CoreDream [데모](fonts/S-CoreDream/demo.html)
 
-## 5. 고도마음 GodoMaum
+## [스포카]
+### 스포카한산스 SpoqaHanSans [데모](fonts/SpoqaHanSans/demo.html)
 
-[데모](./GodoMaum/demo.html)
 
-## 6. 이롭게바탕 IropkeBatang
 
-[데모](./IropkeBatang/demo.html)
 
-## 7. 나눔바른고딕 NanumBarunGothic
-
-[데모](./NanumBarunGothic/demo.html)
-
-## 8. 나눔바른펜 NanumBarunpen
-
-[데모](./NanumBarunpen/demo.html)
-
-## 9. 나눔손글씨 붓 NanumBrush
-
-[데모](./NanumBrush/demo.html)
-
-## 10. 나눔고딕 NanumGothic
-
-[데모](./NanumGothic/demo.html)
-
-## 11. 나눔명조 NanumMyeongjo
-
-[데모](./NanumMyeongjo/demo.html)
-
-## 12. 나눔손글씨 펜 NanumPen
-
-[데모](./NanumPen/demo.html)
-
-## 13. 나눔스퀘어 NanumSquare
-
-[데모](./NanumSquare/demo.html)
-
-## 14. 나눔스퀘어라운드 NanumSquareRound
-
-[데모](./NanumSquareRound/demo.html)
-
-## 15. 본고딕 NotoSans
-
-[데모](./NotoSans/demo.html)
-
-## 16. 스포카한산스 SpoqaHanSans
-
-[데모](./SpoqaHanSans/demo.html)
-
-## 17. 도현 DoHyeon
-
-[데모](./DoHyeon/demo.html)
-
-## 18. 한나는 11살 HanNa11
-
-[데모](./HanNa11/demo.html)
-
-## 19. 주아 JuA
-
-[데모](./JuA/demo.html)
-
-## 20. 기랑해랑 KiRangHaeRang
-
-[데모](./KiRangHaeRang/demo.html)
-
-## 21. 연성 YeonSung
-
-[데모](./YeonSung/demo.html)
-
-## 22. 송명 SongMyung
-
-[데모](./SongMyung/demo.html)
-
-## 23. 에스코어드림 S-CoreDream
-
-[데모](./S-CoreDream/demo.html)
 
